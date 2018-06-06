@@ -12,9 +12,9 @@ If best practice changes, a breaking change of the library will be released.
 Contents
 --------
 
-- API and use
-- Method for deciding best practice
-- Current best practice
+- [API and use](#api-and-use)
+- [Method for deciding best practice](#method-for-deciding-best-practice)
+- [Current best practice](#current-best-practice)
 
 We are currently pre-1.0, which means the library should be considered unstable.
 It is probably better than implementing your own crypto, but we don't know the quality of the code.
