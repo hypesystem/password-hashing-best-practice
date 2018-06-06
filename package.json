@@ -1,0 +1,11 @@
+{
+  "name": "password-hashing-best-practice",
+  "version": "0.0.1",
+  "description": "One stop shop for good practice password hashing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niels Abildgaard <me@hypesystem.dk>",
+  "license": "ISC"
+}
